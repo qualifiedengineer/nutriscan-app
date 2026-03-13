@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+*.iml
+.idea/
+local.properties
+
+# Android Studio
+captures/
+.externalNativeBuild
+.cxx
+
+# Built APKs (keep for local testing)
+*.apk
+*.ap_
+*.aab
+
+# Keystore files
+*.jks
+*.keystore
+
+# Log Files
+*.log
+
+# NDK
+obj/
+
+# OS files
+.DS_Store
+Thumbs.db
